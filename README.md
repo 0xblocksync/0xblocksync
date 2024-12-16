@@ -75,7 +75,7 @@
 	<a href="https://github.com/0xblocksync/testnet/tree/main/hemi">
 <img height=65px src="https://pbs.twimg.com/profile_images/1834303544632991744/QEWxDxD4_400x400.png"></a>
 </td>
-</tr>
+
 <td align="center" width="20%">
 <span><b><center>Pell</center></b></span>
 <br>
@@ -83,6 +83,7 @@
 <img height=65px src="https://pbs.twimg.com/profile_images/1811609717522989056/_jr_bub2_400x400.png"></a>
 </td>
 </tr>
+
 </tbody>
 </table>
 
